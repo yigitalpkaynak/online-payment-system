@@ -55,7 +55,7 @@ public class OrderController:Controller
                 cart.Clear();
                 return RedirectToPage("/Completed", new { OrderId = order.Id });
             }
-            
+
             model.Cart = cart;
             return View(model);
         }   
@@ -69,8 +69,8 @@ public class OrderController:Controller
     private Payment ProcessPayment(OrderModel model)
     {
         Options options = new Options();
-        options.ApiKey = "sandbox-UUguO6CMCcAqWHDRjBhbPFt7owilgR61";
-        options.SecretKey = "sandbox-g58YPtHj8eUMBiyu5Vyh9xjZhTUOmmzn";
+        options.ApiKey = "your api key";
+        options.SecretKey = "your secret key";
         options.BaseUrl = "https://sandbox-api.iyzipay.com";
                 
         CreatePaymentRequest request = new CreatePaymentRequest();
