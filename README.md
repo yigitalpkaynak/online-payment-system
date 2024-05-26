@@ -7,10 +7,15 @@ You can find these datas in "https://github.com/iyzico/iyzipay-dotnet".
 To skip these part, directly use these datas: 
 
 "paymentCard.CardHolderName = "John Doe";
+
 paymentCard.CardNumber = "5528790000000008";
+
 paymentCard.ExpireMonth = "12";
+
 paymentCard.ExpireYear = "2030";
+
 paymentCard.Cvc = "123";"
+
 Finally you have to ready to go!
 
 # Requirements
