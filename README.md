@@ -30,3 +30,10 @@ For .NET Framework:
 
 For .NET Standard 2.1:
 * Newtonsoft.Json 11.0.2 from http://www.newtonsoft.com/json#
+
+* ![Ekran görüntüsü 2024-05-26 112211](https://github.com/yigitalpkaynak/online-payment-system/assets/71692297/6dcf302e-54cc-4cda-8483-bb06c5084805)
+![Ekran görüntüsü 2024-05-26 112225](https://github.com/yigitalpkaynak/online-payment-system/assets/71692297/b10d5246-801b-465a-b8ab-c74a9090088a)
+![Ekran görüntüsü 2024-05-26 112354](https://github.com/yigitalpkaynak/online-payment-system/assets/71692297/81baa9f8-6f47-4c6b-bcdf-e3b8f390520e)
+![Ekran görüntüsü 2024-05-26 112415](https://github.com/yigitalpkaynak/online-payment-system/assets/71692297/311415b1-78dc-440e-924e-8efb3030171d)
+![Ekran görüntüsü 2024-05-26 112524](https://github.com/yigitalpkaynak/online-payment-system/assets/71692297/1560247e-b982-4d0d-8aef-b8447fb685ae)
+
