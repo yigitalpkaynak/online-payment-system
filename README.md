@@ -16,7 +16,7 @@ paymentCard.ExpireYear = "2030";
 
 paymentCard.Cvc = "123";"
 
-Finally you have to ready to go!
+Finally you ready to go!
 
 # Requirements
 One of the runtime environment is required from below
