@@ -2,8 +2,10 @@
 Basic online-payment system for .Net users.
 First you need to have account at Iyzico.
 Then, you have to enter your private api key and secret key at Iyzico/Merchant Settings to StoreApp.Web > Controllers > OrderController.cs file.
-To test your app, you should use test user datas. You can find these datas in "https://github.com/iyzico/iyzipay-dotnet".
+To test your app, you should use test user datas. 
+You can find these datas in "https://github.com/iyzico/iyzipay-dotnet".
 To skip these part, directly use these datas: 
+
 "paymentCard.CardHolderName = "John Doe";
 paymentCard.CardNumber = "5528790000000008";
 paymentCard.ExpireMonth = "12";
